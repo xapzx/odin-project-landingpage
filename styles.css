@@ -1,8 +1,10 @@
 body {
     margin: 0;
     min-height: 100vh;
+    min-width: 100vw;
     display: flex;
     flex-direction: column;
+    font-family: verdana, georgia, arial;
 }
 
 .header-container, .footer {
@@ -12,7 +14,7 @@ body {
 .header-container {
     display: flex;
     flex-direction: column;
-    padding: 10px 150px;
+    padding: 12px 200px;
 }
 
 .header-logo {
@@ -24,7 +26,7 @@ body {
 .header-main {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 48px;
+    margin-bottom: 128px;
 }
 
 .header-main ul {
@@ -38,7 +40,7 @@ body {
 .header-main li a {
     color: #e5e7eb;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 18px;
 }
 
 .header-content {
@@ -51,12 +53,17 @@ body {
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
+    margin: 0;
 }
 
 .header-content p {
     color:#e5e7eb;
     font-size: 18px;
 }
+
+.left {
+    padding-right: 24px;
+} 
  
 .left, .header-content img{
     flex: 1;
@@ -64,7 +71,36 @@ body {
 }
 
 .body-container {
+    display: flex;
+    flex-direction: column;
     flex: 1;
+    text-align: center;
+}
+
+.body-content {
+    flex: 1;
+}
+
+.body-content h3 {
+    font-size: 32px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
+
+.projects-container {
+    display: flex;
+    justify-content: center;
+    padding: 0 100px;
+    gap: 24px;
+}
+
+.projects img {
+    width: 100px;
+    height: 100px;
+}
+
+.socials {
+    background-color: #e5e7eb;
 }
 
 .footer {
