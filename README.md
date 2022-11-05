@@ -23,3 +23,5 @@ Disclaimer: Images/Photos belong to their rightful owners. Sources of photos/ima
 - LinkedIn Logo: https://icons8.com/icon/60443/linkedin-circled
 - GitHub Logo: https://icons8.com/icon/AZOZNnY73haj/github
 - Frying pan & Egg: https://icons8.com/icon/BeDidZchwnxG/fry
+- Hand Scissors: https://icons8.com/icon/2CvVvRzgfLKG/hand-scissors-skin-type-4
+- Sketch image: https://icons8.com/icon/opOV3dO3eLvE/sketch
