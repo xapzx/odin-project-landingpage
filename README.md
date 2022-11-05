@@ -18,3 +18,8 @@ Assignment Details:
 5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
 
 6. When you finish, don’t forget to push it up to GitHub!
+
+Disclaimer: Images/Photos belong to their rightful owners. Sources of photos/images/logos will be listed below.
+- LinkedIn Logo: https://icons8.com/icon/60443/linkedin-circled
+- GitHub Logo: https://icons8.com/icon/AZOZNnY73haj/github
+- Frying pan & Egg: https://icons8.com/icon/BeDidZchwnxG/fry
