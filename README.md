@@ -1,6 +1,8 @@
 # odin-project-landingpage
 Project: Landing Page 
 
+Live Preview: https://xapzx.github.io/odin-project-landingpage/
+
 This project is apart of The Odin Project Foundations Course. The aim of this project is to create an entire web page from a design provided but substituting our own content into the design.
 
 Assignment Details:
