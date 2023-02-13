@@ -27,3 +27,5 @@ Disclaimer: Images/Photos belong to their rightful owners. Sources of photos/ima
 - Frying pan & Egg: https://icons8.com/icon/BeDidZchwnxG/fry
 - Hand Scissors: https://icons8.com/icon/2CvVvRzgfLKG/hand-scissors-skin-type-4
 - Sketch image: https://icons8.com/icon/opOV3dO3eLvE/sketch
+- Calculator: https://icons8.com/icon/9viuvNq2CgPw/calculator
+- Admin Dashboard: https://icons8.com/icon/Dj5yRh6P3lQL/computer
