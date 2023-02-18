@@ -29,3 +29,4 @@ Disclaimer: Images/Photos belong to their rightful owners. Sources of photos/ima
 - Sketch image: https://icons8.com/icon/opOV3dO3eLvE/sketch
 - Calculator: https://icons8.com/icon/9viuvNq2CgPw/calculator
 - Admin Dashboard: https://icons8.com/icon/Dj5yRh6P3lQL/computer
+- Books: https://icons8.com/icon/f6WWkElFBgtA/book

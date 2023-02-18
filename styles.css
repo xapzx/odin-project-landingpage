@@ -14,13 +14,22 @@ body {
 .header-container {
     display: flex;
     flex-direction: column;
-    padding: 12px 200px;
+    padding: 24px 200px;
+}
+
+.header-container h2 {
+    color: white;
+    font-size: 2rem;
+    font-weight: extra-bold;
+    color: #f9faf8;
+    margin: 0;
 }
 
 .header-logo {
     font-weight: bold;
     color: #f9faf8;
     font-size: 24px;
+    margin-right: 12px;
 }
 
 .header-main {
@@ -37,6 +46,11 @@ body {
     list-style: none;
 }
 
+.header-main > nav {
+    display: flex;
+    align-items: center;
+}
+
 .header-main li a {
     color: #e5e7eb;
     text-decoration: none;
@@ -44,29 +58,24 @@ body {
 }
 
 .header-content {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-auto-rows: 250px;
     margin-bottom: 50px;
-}
-
-.header-container h2 {
-    color: white;
-    font-size: 48px;
-    font-weight: extra-bold;
-    color: #f9faf8;
-    margin: 0;
+    gap: 32px;
 }
 
 .header-content p {
     color:#e5e7eb;
-    font-size: 18px;
+    font-size: 1.1rem;
 }
 
-.left {
+.profile-desc {
     padding-right: 24px;
+    padding-bottom: 24px;
 } 
  
-.left, .header-content img{
-    flex: 1;
+.profile-desc, .header-content img{
     max-height: 30vh;
 }
 
@@ -90,10 +99,11 @@ body {
 }
 
 .projects-container {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    justify-items: center;
     padding: 0 100px;
-    gap: 24px;
+    gap: 32px;
 }
 
 .project-content {
